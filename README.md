@@ -1,4 +1,3 @@
-# trabalho-do-forja-tarde
 # Trabalho de Banco de Dados
 
 ## Descrição
@@ -33,4 +32,4 @@ Este repositório contém o projeto desenvolvido para a disciplina de Banco de D
 
 ## Aluno
 
-- Nome
+- Brian Alexander Quintero Linares
